@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brdxn (Brendan Dill)
 - 👀 I’m interested in coding, watching sports, working out, and fishing.
-- 🌱 I’m currently learning Data Science and Mobile Development.
-- 💞️ I’m looking to collaborate on data science and mobile application projects.
+- 🌱 I’m currently learning Application Development and Data Science.
+- 💞️ I’m looking to collaborate on mobile application and data science projects.
 
 <!---
 brdxn/brdxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
