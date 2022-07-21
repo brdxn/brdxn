@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, watching sports, working out, and enjoying the outdoors.
 - 🌱 I’m currently learning application development and data science.
 - 💞️ I’m looking to collaborate on application development and data science projects.
+- https://brdxn.github.io/
 
 <!---
 brdxn/brdxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
